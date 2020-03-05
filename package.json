@@ -30,5 +30,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "homepage": "http://ikejs.github.io/FEW-1.2-Assessment/",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
