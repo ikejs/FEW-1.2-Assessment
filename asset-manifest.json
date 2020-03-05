@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FEW-1.2-Assessment/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/FEW-1.2-Assessment/static/js/main.273e528a.chunk.js",
+    "main.js.map": "/FEW-1.2-Assessment/static/js/main.273e528a.chunk.js.map",
+    "runtime-main.js": "/FEW-1.2-Assessment/static/js/runtime-main.97b7b59e.js",
+    "runtime-main.js.map": "/FEW-1.2-Assessment/static/js/runtime-main.97b7b59e.js.map",
+    "static/js/2.3a975b79.chunk.js": "/FEW-1.2-Assessment/static/js/2.3a975b79.chunk.js",
+    "static/js/2.3a975b79.chunk.js.map": "/FEW-1.2-Assessment/static/js/2.3a975b79.chunk.js.map",
+    "index.html": "/FEW-1.2-Assessment/index.html",
+    "precache-manifest.5570f2c19d0038949acf5bd88a32aa88.js": "/FEW-1.2-Assessment/precache-manifest.5570f2c19d0038949acf5bd88a32aa88.js",
+    "service-worker.js": "/FEW-1.2-Assessment/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/FEW-1.2-Assessment/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.3a975b79.chunk.js.LICENSE.txt": "/FEW-1.2-Assessment/static/js/2.3a975b79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97b7b59e.js",
+    "static/js/2.3a975b79.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.273e528a.chunk.js"
+  ]
+}
